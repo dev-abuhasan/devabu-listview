@@ -1,6 +1,6 @@
 {
-  "name": "devabu-listview",
-  "version": "4.2.1",
+  "name": "abu-listview",
+  "version": "1.0.0",
   "description": "The listview that you need and deserve. It was built for performance, uses cell recycling to achieve smooth scrolling.",
   "main": "dist/reactnative/index.js",
   "types": "dist/reactnative/index.d.ts",
@@ -48,8 +48,8 @@
   "devDependencies": {
     "@types/lodash.debounce": "4.0.3",
     "@types/prop-types": "15.5.2",
+    "@types/react": "^19.0.10",
     "@types/react-native": "0.73.0",
-    "@types/react": "19.0.10",
     "@types/resize-observer-browser": "^0.1.7",
     "file-directives": "1.4.6",
     "tslint": "5.11.0",
